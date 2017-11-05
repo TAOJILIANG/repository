@@ -1,0 +1,7 @@
+#include<stdio>
+#include<common>
+
+void main()
+{
+  printf("Hello, world!");
+}
